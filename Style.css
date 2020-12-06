@@ -1,0 +1,25 @@
+input[type=submit]:hover{
+	color:white;
+	background:black;
+	padding:5px solid;
+	border-right:2px solid red;
+	border-left:2px solid red;
+	border-top:2px solid red;
+	border-bottom:2px solid red;
+	transition:0.5s;
+	border-redius:5px;
+	width:80px;
+	height:36px;
+}
+input[type=reset]:hover{
+	color:white;
+	background:black;
+	padding:5px solid;
+	border-right:2px solid red;
+	border-left:2px solid red;
+	border-top:2px solid red;
+	border-bottom:2px solid red;
+	transition:0.5s;
+	width:80px;
+	height:36px;
+}
